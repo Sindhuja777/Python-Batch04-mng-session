@@ -1,0 +1,4 @@
+this is sample file.
+this is 11th session.
+we are going to discuss about file handling methods.
+python progrmaming online session.
